@@ -13,6 +13,7 @@ Sync tool from source to TeraBox while encrypting and splitting files to maximiz
 	 - [ ] Verify maximum file size.
 	 - [ ] Verify no timeouts.
 	
+# Features
  - Send files with automation
 	 - [ ] Implement Rsync to send files 
 	 - [ ] Some kind of GUI to choose files, encryption settings, etc.
