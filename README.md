@@ -16,5 +16,6 @@ Sync tool from source to TeraBox while encrypting and splitting files to maximiz
 # Features
  - Send files with automation
 	 - [ ] Implement Rsync to send files 
+	 - [ ] Split files into under 500 total files
 	 - [ ] Some kind of GUI to choose files, encryption settings, etc.
 	 - [ ] Scheduler...
