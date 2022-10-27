@@ -5,11 +5,11 @@ Sync tool from source to TeraBox while encrypting and splitting files to maximiz
 # Proof of Concept
 
  - At source on local:
-	 - [ ] Encrypt files with AxCrypt
-	 - [ ] ZIP or bundle files with 7zip
+	 - [x] Encrypt files with 7zip
+	 - [x] ZIP or bundle files with 7zip
  
  - At TeraBox, use Windows client to prove:
-	 - [ ] Verify TeraBox accepts encrypted files.
+	 - [x] Verify TeraBox accepts encrypted files and zip files.
 	 - [ ] Verify maximum file size.
 	 - [ ] Verify no timeouts.
 	
